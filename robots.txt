@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://freddith.github.io/sitemap.xml 

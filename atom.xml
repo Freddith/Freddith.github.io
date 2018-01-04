@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Les Freddith]]></title>
+  <link href="http://freddith.github.io/atom.xml" rel="self"/>
+  <link href="http://freddith.github.io/"/>
+  <updated>2018-01-04T22:18:59+01:00</updated>
+  <id>http://freddith.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A Survivor's Retrospective]]></title>
+    <link href="http://freddith.github.io/blog/2018/01/04/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2018-01-04T13:55:09+01:00</updated>
+    <id>http://freddith.github.io/blog/2018/01/04/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
